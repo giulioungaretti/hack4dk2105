@@ -12,3 +12,5 @@ DR press photo archive http://hack4dk.dr.dk/gallery
 Data is extracted from DRs api and massaged to clean/extract the program description.
 
 Most of the scrpits will hack your breath away because beer.
+
+The piece is available at https://youtu.be/cM-lUdqo_Co .
