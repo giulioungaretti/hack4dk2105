@@ -1,4 +1,8 @@
 # feel that music
+
+![screenshot](http://img.youtbe.com/vi/cM-lUdqo_Co/maxresdefault.jpg)
+
+
 Analyzing the occurrence words used in daily programs in DR in the period 1925 to 1983, in May.
 We look at the changes over time and convert this into algorithmic music and visual art.
 Doing this, we are hoping to experience and express historical megatrends in new and different way
